@@ -1,5 +1,5 @@
 Name | Size
------ | ----
+-----|----
 world.geojson | 10,36KB
 world_simplified.geojson | 223KB
 world.topojson | 114KB
